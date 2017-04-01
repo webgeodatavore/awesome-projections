@@ -100,6 +100,7 @@ We are looking to improve content organization, add more descriptions (terse or 
 
 ### Miscellanous
 
+* [lon, lat, lon](http://www.macwright.org/lonlat/) A single-page website that explains the difference between lat/lon and lon/lat in various software and specifications
 * [CanvasMap](https://github.com/OSUCartography/CanvasMap) is a simple HTML framework to experiment with projection equations.
 * [Flex Projector](http://flexprojector.com) is a freeware, cross-platform application for creating custom world map projections, implemented with Java.
 
