@@ -6,6 +6,8 @@ It can be any type of support (books, comics, website, videos, articles, dedicat
 
 We are looking to improve content organization, add more descriptions (terse or absent at the moment) and adding more interesting links. Feel free [to open a PR](http://github.com/webgeodatavore/awesome-projections) to discuss about any suggestions.
 
+If you don't have a Github account, you can also make feedback using a freely editable online editor called ["Framapad"](https://semestriel.framapad.org/p/uIjOFLvBvw) (no password, no account)
+
 ## Books
 
 * [Map projections: A working manual](https://pubs.er.usgs.gov/publication/pp1395)
