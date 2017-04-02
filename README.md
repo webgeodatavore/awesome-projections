@@ -75,6 +75,7 @@ If you don't have a Github account, you can also make feedback using a freely ed
 ### C / C++
 
 [proj.4](http://proj4.org) is a standard Unix filter function which converts geographic longitude and latitude coordinates into cartesian coordinates (and vice versa), and it is a C API for software developers to include coordinate transformation in their own software.
+[GDAL (Geospatial Data Abstraction Library)](http://gdal.org) is a translator library for raster and vector geospatial data formats that is released under an X/MIT style Open Source license by the Open Source Geospatial Foundation. Although it's purpose is related to spatial data formats, it also manage well projections changes for raster and vector formats.
 
 ### Java
 
