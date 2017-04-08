@@ -119,7 +119,7 @@ If you don't have a Github account, you can also make feedback using a freely ed
 
 * <https://github.com/georust/rust-proj>
 
-## Sotware
+## Software
 
 * [CanvasMap](https://github.com/OSUCartography/CanvasMap) is a simple HTML framework to experiment with projection equations.
 * [Flex Projector](http://flexprojector.com) is a freeware, cross-platform application for creating custom world map projections, implemented with Java
