@@ -88,18 +88,6 @@ If you don't have a Github account, you can also make feedback using a freely ed
 * Nearly a meme now > <https://twitter.com/vicchi/status/814549529831895040>
 * [Australian coastline shown using 10 different map projections](https://www.reddit.com/r/MapPorn/comments/5l0ac9/australian_coastline_shown_using_10_different_map/)
 
-## Academic references
-
-## English
-
-* Looking for input. Maybe look at creating something like [a Zotero group](https://www.zotero.org/support/groups) about projections to avoid adding to much content targeting specialists, researchers in this repo.
-
-Notes: you can find a lot of contents on the [ICA (International Cartographic Association) Commission on Map Projections site](http://ica-proj.kartografija.hr/home.en.html). See if duplication required.
-
-## French
-
-* Colette Cauvin, "Au sujet des transformations cartographiques de position", Cybergeo : European Journal of Geography [En ligne], Cartographie, Imagerie, SIG, document 15, mis en ligne le 14 janvier 1997, consulté le 03 avril 2017. URL : <http://cybergeo.revues.org/5385> ; DOI : 10.4000/cybergeo.5385
-
 ## Libraries
 
 ### C / C++
@@ -136,3 +124,15 @@ Notes: you can find a lot of contents on the [ICA (International Cartographic As
 * [CanvasMap](https://github.com/OSUCartography/CanvasMap) is a simple HTML framework to experiment with projection equations.
 * [Flex Projector](http://flexprojector.com) is a freeware, cross-platform application for creating custom world map projections, implemented with Java
 * [G.Projector — Global Map Projector](http://www.giss.nasa.gov/tools/gprojector/) by the NASA. G.Projector transforms an equirectangular map image into any of over 125 global and regional map projections. Longitude-latitude gridlines and continental outlines may be drawn on the map, and the resulting image may be saved to disk in GIF, JPEG, PDF, PNG, PS or TIFF form.
+
+## Academic references
+
+## English
+
+* Looking for input. Maybe look at creating something like [a Zotero group](https://www.zotero.org/support/groups) about projections to avoid adding to much content targeting specialists, researchers in this repo.
+
+Notes: you can find a lot of contents on the [ICA (International Cartographic Association) Commission on Map Projections site](http://ica-proj.kartografija.hr/home.en.html). See if duplication required.
+
+## French
+
+* Colette Cauvin, "Au sujet des transformations cartographiques de position", Cybergeo : European Journal of Geography [En ligne], Cartographie, Imagerie, SIG, document 15, mis en ligne le 14 janvier 1997, consulté le 03 avril 2017. URL : <http://cybergeo.revues.org/5385> ; DOI : 10.4000/cybergeo.5385
