@@ -70,6 +70,34 @@ If you don't have a Github account, you can also make feedback using a freely ed
 
 * [Projections and Coordinate Systems - for the modern mapper](http://mjfoster83.github.io/projections/)
 
+### Miscellanous
+
+* [lon, lat, lon](http://www.macwright.org/lonlat/) A single-page website that explains the difference between lat/lon and lon/lat in various software and specifications
+
+## Demos
+
+* [Adaptive Composite Map Projections](http://cartography.oregonstate.edu/demos/AdaptiveCompositeMapProjections/) by Bernhard Jenny, Cartography and Geovisualization Group at Oregon State University
+* [Map projections demos](https://www.jasondavies.com/maps/) covering interrupted maps, butterfly maps, retroazimuthal projections and other projections related contents. Demos based on D3, by Jason Davies.
+* [Comparing Map Projections](https://bl.ocks.org/syntagmatic/ba569633d51ebec6ec6e)
+* [Personal World Map](http://www.personalworldmap.org/), change the center of the map and display the center on a globe approximated.
+
+## Projections images illustrations
+
+* [List of map projections](https://en.wikipedia.org/wiki/List_of_map_projections)
+* <http://www.csiss.org/map-projections/>
+* Nearly a meme now > <https://twitter.com/vicchi/status/814549529831895040>
+* [Australian coastline shown using 10 different map projections](https://www.reddit.com/r/MapPorn/comments/5l0ac9/australian_coastline_shown_using_10_different_map/)
+
+## Academic references
+
+## English
+
+* Looking for input
+
+## French
+
+* Colette Cauvin, "Au sujet des transformations cartographiques de position", Cybergeo : European Journal of Geography [En ligne], Cartographie, Imagerie, SIG, document 15, mis en ligne le 14 janvier 1997, consulté le 03 avril 2017. URL : <http://cybergeo.revues.org/5385> ; DOI : 10.4000/cybergeo.5385
+
 ## Libraries
 
 ### C / C++
@@ -101,21 +129,8 @@ If you don't have a Github account, you can also make feedback using a freely ed
 
 * <https://github.com/georust/rust-proj>
 
-### Miscellanous
+## Sotware
 
-* [lon, lat, lon](http://www.macwright.org/lonlat/) A single-page website that explains the difference between lat/lon and lon/lat in various software and specifications
 * [CanvasMap](https://github.com/OSUCartography/CanvasMap) is a simple HTML framework to experiment with projection equations.
-* [Flex Projector](http://flexprojector.com) is a freeware, cross-platform application for creating custom world map projections, implemented with Java.
-
-## Demos
-
-* [Adaptive Composite Map Projections](http://cartography.oregonstate.edu/demos/AdaptiveCompositeMapProjections/) by Bernhard Jenny, Cartography and Geovisualization Group at Oregon State University
-* [Map Projection Transitions](https://www.jasondavies.com/maps/transition/) by Jason Davies
-* [Comparing Map Projections](https://bl.ocks.org/syntagmatic/ba569633d51ebec6ec6e)
-
-## Projections images illustrations
-
-* [List of map projections](https://en.wikipedia.org/wiki/List_of_map_projections)
-* <http://www.csiss.org/map-projections/>
-* Nearly a meme now > <https://twitter.com/vicchi/status/814549529831895040>
-* [Australian coastline shown using 10 different map projections](https://www.reddit.com/r/MapPorn/comments/5l0ac9/australian_coastline_shown_using_10_different_map/)
+* [Flex Projector](http://flexprojector.com) is a freeware, cross-platform application for creating custom world map projections, implemented with Java
+* [G.Projector — Global Map Projector](http://www.giss.nasa.gov/tools/gprojector/) by the NASA. G.Projector transforms an equirectangular map image into any of over 125 global and regional map projections. Longitude-latitude gridlines and continental outlines may be drawn on the map, and the resulting image may be saved to disk in GIF, JPEG, PDF, PNG, PS or TIFF form.
