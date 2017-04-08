@@ -92,7 +92,7 @@ If you don't have a Github account, you can also make feedback using a freely ed
 
 ## English
 
-* Looking for input
+* Looking for input, maybe look at creating something like [a Zotero group](https://www.zotero.org/support/groups) about projections to avoid adding to much content targeting specialists, researchers in this repo.
 
 ## French
 
