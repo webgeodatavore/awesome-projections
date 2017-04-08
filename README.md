@@ -92,7 +92,9 @@ If you don't have a Github account, you can also make feedback using a freely ed
 
 ## English
 
-* Looking for input, maybe look at creating something like [a Zotero group](https://www.zotero.org/support/groups) about projections to avoid adding to much content targeting specialists, researchers in this repo.
+* Looking for input. Maybe look at creating something like [a Zotero group](https://www.zotero.org/support/groups) about projections to avoid adding to much content targeting specialists, researchers in this repo.
+
+Notes: you can find a lot of contents on the [ICA (International Cartographic Association) Commission on Map Projections site](http://ica-proj.kartografija.hr/home.en.html). See if duplication required.
 
 ## French
 
