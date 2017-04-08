@@ -42,7 +42,7 @@ If you don't have a Github account, you can also make feedback using a freely ed
 
 * [epsg.io](http://epsg.io)
 * [ProjFinder](http://projfinder.com) with [Github code](https://github.com/aaronr/projfinder.com)
-* <http://projectionwizard.org>
+* [Projection Wizard](http://projectionwizard.org), an online map projection selection tool, by [Bojan Šavrič](http://projectionwizard.org/BojanSavric/).
 * <http://bboxfinder.com>
 * [Reprojections Dogeo](https://projection.dogeo.fr) (French mainly)
 
@@ -76,7 +76,7 @@ If you don't have a Github account, you can also make feedback using a freely ed
 
 ## Demos
 
-* [Adaptive Composite Map Projections](http://cartography.oregonstate.edu/demos/AdaptiveCompositeMapProjections/) by Bernhard Jenny, Cartography and Geovisualization Group at Oregon State University
+* Some [new projections related demos](http://projectionwizard.org/BojanSavric/projections.html) with associated papers. It includes [adaptive Composite Map Projections](http://cartography.oregonstate.edu/demos/AdaptiveCompositeMapProjections/) by Bernhard Jenny, Cartography and Geovisualization Group at Oregon State University.
 * [Map projections demos](https://www.jasondavies.com/maps/) covering interrupted maps, butterfly maps, retroazimuthal projections and other projections related contents. Demos based on D3, by Jason Davies.
 * [Comparing Map Projections](https://bl.ocks.org/syntagmatic/ba569633d51ebec6ec6e)
 * [Personal World Map](http://www.personalworldmap.org/), change the center of the map and display the center on a globe approximated.
