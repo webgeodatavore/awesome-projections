@@ -20,12 +20,16 @@ If you don't have a Github account, you can also make feedback using a freely ed
 * [Excerpt from "MapSchool"](http://mapschool.io/#the-shape-of-the-earth)
 * [Map Projections part](http://www.axismaps.com/guide/projections/) in "Thematic Cartography Guide. A short, friendly guide to basic principles of thematic mapping"
 
-## Comics
+## Arts
 
-### XKCD
+### XKCD (comics)
 
 * [Bad Map Projection: Liquid Resize](https://xkcd.com/1784/)
 * [Map Projections](https://xkcd.com/977/)
+
+### Artists using mapping projection
+
+* [Agnes Denes exposition at Fenwick Gallery](http://fenwickgallery.gmu.edu/agnes-denes/)
 
 ## Videos
 
