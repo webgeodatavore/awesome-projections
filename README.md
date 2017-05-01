@@ -18,6 +18,7 @@ If you don't have a Github account, you can also make feedback using a freely ed
 * [Geometric aspects of mapping](https://kartoweb.itc.nl/geometrics/Map%20projections/mappro.html) by R. Knippers
 * [Cartographical Map Projections](http://www.progonos.com/furuti/MapProj/Normal/TOC/cartTOC.html) by Carlos A. Furuti
 * [Excerpt from "MapSchool"](http://mapschool.io/#the-shape-of-the-earth)
+* [Map Projections part](http://www.axismaps.com/guide/projections/) in "Thematic Cartography Guide. A short, friendly guide to basic principles of thematic mapping"
 
 ## Comics
 
