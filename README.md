@@ -62,6 +62,8 @@ If you don't have a Github account, you can also make feedback using a freely ed
 
 ## Articles
 
+* [The problem with maps](http://mjmdavis.com/showing/2017/05/16/how-to-read-maps.html)
+* [Mercator Madness](http://mjmdavis.com/showing/2017/04/29/mercator-madness.html)
 * [All maps are wrong. I cut open a globe to show why.](http://www.vox.com/world/2016/12/2/13817712/map-projection-mercator-globe)
 * [Misleading maps and problematic projections](http://www.economist.com/blogs/graphicdetail/2016/12/daily-chart-1)
 * [Top 7 maps that ultimately explain map projections](http://geoawesomeness.com/top-7-maps-ultimately-explain-map-projections/)
@@ -73,6 +75,7 @@ If you don't have a Github account, you can also make feedback using a freely ed
 
 ## Presentations
 
+* [Projections and datums in web mapping: an introduction](http://lyzidiamond.com/nacis-2017/)
 * [Projections and Coordinate Systems - for the modern mapper](http://mjfoster83.github.io/projections/)
 
 ### Miscellanous
