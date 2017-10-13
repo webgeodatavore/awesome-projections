@@ -143,4 +143,5 @@ Notes: you can find a lot of contents on the [ICA (International Cartographic As
 
 ## French
 
+* [Projection Bertin (1953)](https://visionscarto.net/projection-bertin-1953) Inclus un algorithme pour la reproduire (illustration avec D3)
 * Colette Cauvin, "Au sujet des transformations cartographiques de position", Cybergeo : European Journal of Geography [En ligne], Cartographie, Imagerie, SIG, document 15, mis en ligne le 14 janvier 1997, consulté le 03 avril 2017. URL : <http://cybergeo.revues.org/5385> ; DOI : 10.4000/cybergeo.5385
