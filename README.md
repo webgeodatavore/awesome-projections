@@ -29,6 +29,7 @@ If you don't have a Github account, you can also make feedback using a freely ed
 
 ### Artists using mapping projection
 
+* David Swart [article Artistic cartography: creative ways to peel the globe](https://dmswart.com/2017/11/01/creative-cartography/)
 * [Agnes Denes exposition at Fenwick Gallery](http://fenwickgallery.gmu.edu/agnes-denes/)
 
 ## Videos
@@ -62,6 +63,8 @@ If you don't have a Github account, you can also make feedback using a freely ed
 
 ## Articles
 
+* [Waldo Tobler’s hyperelliptical projections](https://visionscarto.net/hyperelliptical-projections)
+* [Unfolding the Earth: Myriahedral Projections In WebGL](https://medium.com/vis-gl/unfolding-the-earth-myriahedral-projections-in-webgl-6b2bcfd00a30)
 * [The problem with maps](http://mjmdavis.com/showing/2017/05/16/how-to-read-maps.html)
 * [Mercator Madness](http://mjmdavis.com/showing/2017/04/29/mercator-madness.html)
 * [All maps are wrong. I cut open a globe to show why.](http://www.vox.com/world/2016/12/2/13817712/map-projection-mercator-globe)
@@ -91,6 +94,7 @@ If you don't have a Github account, you can also make feedback using a freely ed
 
 ## Projections images illustrations
 
+* [Orange peeling with world drawing](https://twitter.com/infowetrust/status/967105316272816128)
 * [List of map projections](https://en.wikipedia.org/wiki/List_of_map_projections)
 * <http://www.csiss.org/map-projections/>
 * Nearly a meme now > <https://twitter.com/vicchi/status/814549529831895040>
