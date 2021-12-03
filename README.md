@@ -115,6 +115,7 @@ If you don't have a Github account, you can also make feedback using a freely ed
 ### JavaScript
 
 * <http://proj4js.org>
+* <https://github.com/mbloch/mapshaper-proj>
 * <https://github.com/d3/d3-geo-projection/>
 
 ### Python
