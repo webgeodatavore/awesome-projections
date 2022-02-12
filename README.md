@@ -51,6 +51,7 @@ If you don't have a Github account, you can also make feedback using a freely ed
 * [Projection Wizard](http://projectionwizard.org), an online map projection selection tool, by [Bojan Šavrič](http://projectionwizard.org/BojanSavric/).
 * <http://bboxfinder.com>
 * [Reprojections Dogeo](https://projection.dogeo.fr) (French mainly)
+* [projectionwizard](https://projectionwizard.org) Playground to see projections deformations
 
 ### EPSG codes
 
